@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1753 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Seperator" transform="translate(-2016.5 -754)">
+    <line id="Line_1" data-name="Line 1" class="cls-1" x2="727" transform="translate(2016.5 794.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="727" transform="translate(3042.5 794.5)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-2" cx="13.5" cy="13.5" r="13.5" transform="translate(2808 778)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-2" cx="13.5" cy="13.5" r="13.5" transform="translate(2951 778)"/>
+    <path id="Exclusion_2" data-name="Exclusion 2" class="cls-2" d="M41,82A41.011,41.011,0,0,1,25.041,3.222,41.011,41.011,0,0,1,56.959,78.778,40.742,40.742,0,0,1,41,82Zm.5-72A31.5,31.5,0,1,0,73,41.5,31.536,31.536,0,0,0,41.5,10Z" transform="translate(2852 754)"/>
+  </g>
+</svg>
